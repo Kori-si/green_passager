@@ -8,6 +8,9 @@
   border: 2px solid #502198;
   width: 280px;
   padding: 16px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 18px;
 }
 
 .btn--size--xl {
